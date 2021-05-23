@@ -11,7 +11,7 @@
 <a href="https://fb.com/rohan.khurana.07" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" alt="rohan.khurana.07" height="30" width="40" /></a>
 <a href="https://instagram.com/rohan_khurana__" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" alt="rohan_khurana__" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rohankhdbzmf" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="rohankhdbzmf" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/rohan_khurana/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="https://leetcode.com/rohan_khurana/" height="30" width="40" /></a>
+<a href="https://leetcode.com/rohan_khurana/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="https://leetcode.com/rohan_khurana/" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
