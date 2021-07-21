@@ -4,7 +4,7 @@
 - ⚡ I have worked in XR Development.
 - :computer: I’m currently learning Data Structures and Algorithms.
 - 📫 How to reach me: rohankhurana.cse@gmail.com
-
+- ⚡ Have a look at my [Resume](https://drive.google.com/file/d/1DpGPDwimY0udT1HC-oIJG78bJyZ3jqXp/view)
 ## Connect with me:
 <p align="left">
 <a href="https://twitter.com/rohan_khurana__" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="rohan_khurana__" height="30" width="40" /></a>
@@ -22,7 +22,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-khurana&count_private=true&show_icons=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohan-khurana&ring=0088ff&fire=0088ff&currStreakLabel=0088ff)](https://git.io/streak-stats)
-
 
 <!--
 **rohan-khurana/rohan-khurana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
