@@ -5,6 +5,7 @@
 - 📫 How to reach me: rohankhurana.cse@gmail.com
 - ⚡ Have a look at my [Resume](https://drive.google.com/file/d/1OVa_7XTNgdkjWVN34m94xJg9rxtlz1K8/view?usp=sharing)
 
+![](https://komarev.com/ghpvc/?username=rohan-khurana&style=flat&label=Views)
 ## Connect with me:
 <p align="left">
 <a href="https://twitter.com/rohan_khurana__" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="rohan_khurana__" height="30" width="40" /></a>
