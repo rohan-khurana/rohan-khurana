@@ -1,9 +1,8 @@
 # Hi!👋 I'm Rohan Khurana
-- :mortar_board: B.Tech - Computer Science and Engingeering
-- :dart: Software Development | Web Development | XR Development.
-- :computer: Currently grooming skills on Data Structures and Algorithms.
-- 📫 How to reach me: rohankhurana.cse@gmail.com
-- ⚡ Have a look at my [Resume](https://drive.google.com/file/d/1OVa_7XTNgdkjWVN34m94xJg9rxtlz1K8/view?usp=sharing)
+- :mortar_board: B.Tech Computer Science and Engingeering (2018-2022)
+- :dart: Software Development | Web Development.
+- :computer: I write code that sometimes works on the first try.
+- 📫 How to reach me: rohankhurana.cse@gmail.com 
 
 ![](https://komarev.com/ghpvc/?username=rohan-khurana&style=flat&label=Views)
 ## Connect with me:
@@ -13,7 +12,6 @@
 <a href="https://fb.com/rohan.khurana.07" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" alt="rohan.khurana.07" height="30" width="40" /></a>
 <a href="https://instagram.com/rohan_khurana__" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" alt="rohan_khurana__" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCTqlWmuEZxVg87e-3Pp4dRA" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/youtube.svg" alt="Rohan Khurana" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rohankhdbzmf" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="rohankhdbzmf" height="30" width="40" /></a>
 <a href="https://leetcode.com/rohan_khurana/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="https://leetcode.com/rohan_khurana/" height="30" width="40" /></a>
 </p>
 
@@ -40,11 +38,9 @@
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-khurana&count_private=true&show_icons=true&hide_border=true&&bg_color=0d1117&icon_color=0088ff&theme=dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohan-khurana&background=0d1117&ring=0088ff&fire=0088ff&currStreakLabel=0088ff&hide_border=true&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-khurana&layout=compact&theme=dark&hide_border=true&&bg_color=0d1117&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rohan-khurana/rohan-khurana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
